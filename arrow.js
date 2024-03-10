@@ -1,4 +1,4 @@
-var ploho = 2;
+var ploho = 2123;
 let horosho = 4;
 const otlichno = 5;
 
